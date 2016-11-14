@@ -1,12 +1,12 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+README
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
+PROJECT TITLE: Linear Algebra Row Reduction Calculator.
+PURPOSE OF PROJECT: Streamline the calculation process in the reduction
+of a matrix.
+VERSION or DATE:9-25-15
 HOW TO START THIS PROJECT:
-AUTHORS:
+AUTHORS: Matthew C
 USER INSTRUCTIONS:
+Enter in your matrix. Use the commands to perform row operations.
