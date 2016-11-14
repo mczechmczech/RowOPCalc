@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=inCols
+comment0.target=Row(int)
+comment1.params=inNum\ col
+comment1.target=void\ changeValue(double,\ int)
+comment2.params=inCol
+comment2.target=Number\ getCol(int)
+comment3.params=inCols
+comment3.target=void\ instantiateRow(int)
+comment4.params=inRow\ inMultiplier
+comment4.target=void\ rowOpAdd(Row,\ Number)
+comment5.params=inMultiplier
+comment5.target=void\ rowOpMulti(Number)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
